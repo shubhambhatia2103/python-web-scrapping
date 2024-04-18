@@ -1,3 +1,4 @@
+
 # Web Scraping with Python and BeautifulSoup
 
 ## What is data parsing?
@@ -17,6 +18,7 @@ The next step is to install the Beautiful Soup 4 library on your system. No matt
 
 ```bash
   pip install beautifulsoup4
+
 ```
 
 ## Contact
