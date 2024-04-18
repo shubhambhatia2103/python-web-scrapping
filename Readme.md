@@ -1,4 +1,6 @@
-# What is data parsing?
+# Web Scraping with Python and BeautifulSoup
+
+## What is data parsing?
 Data parsing is a process during which a piece of data gets converted into a different type of data according to specified criteria. It’s an important part of web scraping since it helps transform raw HTML data into a more easily readable format that can be understood and analyzed.
 
 ## What does a parser do?
